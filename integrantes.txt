@@ -1,0 +1,8 @@
+INTEGRANTES de 1°1°B:
+- Vázquez Carolina.
+- Vicent Iara.
+
+El proyecto se testeó en:
+- https://validator.w3.org/#validate
+
+Al proyecto le dedicamos 17 horas
